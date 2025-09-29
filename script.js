@@ -40,7 +40,7 @@ button.addEventListener("click", function () {
     // change text here
 });
 */
- 
+
 
 /*  
 =======================================
@@ -68,7 +68,7 @@ Use:
 data.content   // the quote text
 data.author    // the author
 */
- 
+ live
 
 /*  
 =======================================
